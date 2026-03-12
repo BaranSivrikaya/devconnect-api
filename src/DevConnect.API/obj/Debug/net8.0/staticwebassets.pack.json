@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/baran/DevConnect/src/DevConnect.API/wwwroot/uploads/4d87b9d5-8eda-4c72-9f1c-06a82c72f2e1.jpg",
+      "PackagePath": "staticwebassets/uploads/4d87b9d5-8eda-4c72-9f1c-06a82c72f2e1.jpg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.DevConnect.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.DevConnect.API.props",
+      "PackagePath": "build\\DevConnect.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DevConnect.API.props",
+      "PackagePath": "buildMultiTargeting\\DevConnect.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DevConnect.API.props",
+      "PackagePath": "buildTransitive\\DevConnect.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

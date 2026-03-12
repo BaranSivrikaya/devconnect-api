@@ -1,0 +1,11 @@
+/Users/baran/DevConnect/src/DevConnect.Domain/bin/Debug/net8.0/DevConnect.Domain.deps.json
+/Users/baran/DevConnect/src/DevConnect.Domain/bin/Debug/net8.0/DevConnect.Domain.dll
+/Users/baran/DevConnect/src/DevConnect.Domain/bin/Debug/net8.0/DevConnect.Domain.pdb
+/Users/baran/DevConnect/src/DevConnect.Domain/obj/Debug/net8.0/DevConnect.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baran/DevConnect/src/DevConnect.Domain/obj/Debug/net8.0/DevConnect.Domain.AssemblyInfoInputs.cache
+/Users/baran/DevConnect/src/DevConnect.Domain/obj/Debug/net8.0/DevConnect.Domain.AssemblyInfo.cs
+/Users/baran/DevConnect/src/DevConnect.Domain/obj/Debug/net8.0/DevConnect.Domain.csproj.CoreCompileInputs.cache
+/Users/baran/DevConnect/src/DevConnect.Domain/obj/Debug/net8.0/DevConnect.Domain.dll
+/Users/baran/DevConnect/src/DevConnect.Domain/obj/Debug/net8.0/refint/DevConnect.Domain.dll
+/Users/baran/DevConnect/src/DevConnect.Domain/obj/Debug/net8.0/DevConnect.Domain.pdb
+/Users/baran/DevConnect/src/DevConnect.Domain/obj/Debug/net8.0/ref/DevConnect.Domain.dll
